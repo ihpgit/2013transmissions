@@ -1,2 +1,0 @@
-Most messages were unable to be encrypted. Only one that S and I got working was "messages > skype > message.json".
-Builds and Exports aren't included in this commit for confidentiality, since this'll be shared company-wide.
